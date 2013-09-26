@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4959602355957,
+          34.01055023831342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "santa monica place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.49366426467896,
+          34.01366290742301
+        ]
+      }
+    }
+  ]
+}
