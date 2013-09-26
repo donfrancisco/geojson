@@ -12,7 +12,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "The Exchange",
         "address": "1719 G St NW"
       }
@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Blackfin",
         "address": "1620 I St NW"
       }
@@ -42,10 +42,10 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Churchkey",
         "address": "1337 14th St NW",
-        "note": "Ask the bartender for the password"
+        "note": "Ask the hospitaltender for the password"
       }
     },
     {
@@ -58,7 +58,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Busboys and Poets",
         "address": "1025 5th St NW"
       }
@@ -73,7 +73,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "SoHo Cafe",
         "address": "2150 P St NW"
       }
@@ -88,7 +88,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Chinatown Coffee Company",
         "address": "475 H St NW"
       }
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Science Club",
         "address": "1136 19th St NW"
       }
@@ -118,7 +118,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Wonderland Ballroom",
         "address": "  1101 Kenyon St NW"
       }
@@ -133,7 +133,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Tryst",
         "address": "2459 18th St NW"
       }
@@ -148,7 +148,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "hospital",
         "name": "Boundary Stone",
         "address": "116 Rhode Island Ave NW"
       }
