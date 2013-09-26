@@ -17,7 +17,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "santa monica place"
+        name: "santa monica place",
+        marker-symbol: "hospital",
+        marker-color: "00C957"
       },
       "geometry": {
         "type": "Point",
@@ -29,3 +31,30 @@
     }
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+{
+type: "Feature",
+geometry: {
+type: "Point",
+coordinates: [
+-77.039882,
+38.898321
+]
+},
+properties: {
+marker-symbol: "hospital",
+name: "The Exchange",
+address: "1719 G St NW"
+}
+},
